@@ -1,0 +1,25 @@
+{
+  "shops": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.in"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://www.flipkart.com"
+    },
+    {
+      "name": "Myntra",
+      "url": "https://www.myntra.com"
+    },
+    {
+      "name": "AJIO",
+      "url": "https://www.ajio.com"
+    },
+    {
+      "name": "TataCliq",
+      "url": "https://www.tatacliq.com"
+    }
+  ],
+  "product": "Nike Air Max SC"
+}
